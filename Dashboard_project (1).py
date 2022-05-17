@@ -63,7 +63,7 @@ df_selection = df.query(
 )
 st.dataframe(df_selection)
 # ---- MAINPAGE ----
-st.title(":bar_chart: Supermarket Sales Dashboard")
+st.title(":bar_chart: Supermarket Sales Dashboard by Asfiya Tabassum")
 st.markdown("##")
 
 # TOP KPI's
